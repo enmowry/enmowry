@@ -6,8 +6,8 @@ More importantly...
 
 
 <picture>
- <source media="(prefers-color-scheme: light)" srcset=(images/Pluto1.jpg)>
- <source media="(prefers-color-scheme: dark)" srcset=(images/Pluto2.jpg)>
+ <source media="(prefers-color-scheme: light)" srcset=(images/Pluto1.png)>
+ <source media="(prefers-color-scheme: dark)" srcset=(images/Pluto2.png)>
  <img alt="Shows a picture of Pluto on her birthday in light mode and a picture of her at the park in dark mode.">
 </picture>
 
