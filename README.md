@@ -2,7 +2,7 @@ Hi! I'm Erin :wave:
 
 More importantly...
 
-:sparkling_heart: This is Pluto! Pluto is almost 3 years old and is the goodest girl. I can confirm that she is, in fact, the cutest dog. Thank you for noticing :blush:
+:sparkling_heart: This is Pluto! Pluto is 4 years old and is the goodest girl. I can confirm that she is, in fact, the cutest dog. Thank you for noticing :blush:
 
 
 <picture>
